@@ -4,6 +4,12 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MyCustomPackages_Mateubnl</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mateus Lucena</Authors>
+    <PackageDescription> Meu pacote de exemplo</PackageDescription>
+    <RepositoryUrl>https://github.com/Mateusbnl/my-custom-packages</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
